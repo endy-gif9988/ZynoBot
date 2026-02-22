@@ -13,31 +13,31 @@ const moduleCache = new NodeCache({ stdTTL: 300 });
 
 /*⭑⭒━━━✦❘༻☾⋆⁺₊✧ 𝓿𝓪𝓻𝓮𝓫𝓸𝓽 ✧₊⁺⋆☽༺❘✦━━━⭒⭑*/
 
-global.sam = ['393476686131',]
+global.sam = ['212679283897',]
 global.owner = [
-  ['393476686131', 'sam', true],
-  ['393511082922', 'gio', true],
-  ['393392645292', 'mavko', true],
-  ['67078163216', 'Felix', true],
-  ['393514357738', 'vare', true],
+  ['212679283897', 'endy', true],
+  ['5511967898841', 'ksav', true],
+  ['212722652082', 'medalis', true],
+  ['212775270361', 'zyno', true],
+  ['393926427789', 'mors', true],
 ]
-global.mods = ['393476686131', '393511082922', '67078163216']
-global.prems = ['393476686131', '393511082922', '67078163216']
+global.mods = ['xxxxxxxxxx', 'xxxxxxxxx', 'xxxxxxxxx']
+global.prems = ['xxxxxxxx', 'xxxxxxx', 'xxxxxxxx']
 
 /*⭑⭒━━━✦❘༻🩸 INFO BOT 🕊️༺❘✦━━━⭒⭑*/
 
-global.nomepack = 'vare ✧ bot'
-global.nomebot = '✧˚🩸 varebot 🕊️˚✧'
-global.wm = 'vare ✧ bot'
-global.autore = '𝐬𝐚𝐦'
-global.dev = '⋆｡˚- 𝐬𝐚𝐦'
-global.testobot = `༻⋆⁺₊𝓿𝓪𝓻𝓮𝓫𝓸𝓽₊⁺⋆༺`
+global.nomepack = 'Zyno'
+global.nomebot =  'ZynoBot'
+global.wm = 'zyno ✧ bot'
+global.autore = '乇几ᗪㄚ'
+global.dev = '乇几ᗪㄚ'
+global.testobot = `༻⋆⁺₊𝖅𝖞𝖓𝖔𝕭𝖔𝖙₊⁺⋆༺`
 global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala _errore_` per avvisare lo sviluppatore.'
 
 /*⭑⭒━━━✦❘༻🌐 LINK 🌐༺❘✦━━━⭒⭑*/
 
-global.repobot = 'https://github.com/realvare/varebot'
+global.repobot = ''
 global.gruppo = 'https://chat.whatsapp.com/bysamakavare'
 global.canale = 'https://whatsapp.com/channel/0029VbB41Sa1Hsq1JhsC1Z1z'
 global.insta = 'https://www.instagram.com/samakavare'
