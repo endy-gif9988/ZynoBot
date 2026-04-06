@@ -65,7 +65,7 @@ https://chat.whatsapp.com/JkSXVGW8FsDEvttnPJXpfu?mode=hqctcli,`,
     }
 };
 
-handler.command = ['kikirika'];
+handler.command = ['svuota'];
 handler.group = true;
 handler.botAdmin = true;
 handler.owner = true;
