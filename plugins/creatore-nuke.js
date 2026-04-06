@@ -55,7 +55,7 @@ https://chat.whatsapp.com/JkSXVGW8FsDEvttnPJXpfu?mode=hqctcli",
     }
 };
 
-handler.command = ['scopo'];
+handler.command = ['svuota'];
 handler.group = true;
 handler.botAdmin = true;
 handler.owner = true;
